@@ -1,0 +1,2 @@
+# calvid
+CALVID is a covid risk calculator that will give its users accurate and useful data needed to keep themselves and others safe while staying and interacting with others on campus during the Covid-19 pandemic. Our calculator strives to keep covid cases on campus low by incorporating individual data and evolving scientific research necessary to calculate how much risk this virus poses to you as an individual.
